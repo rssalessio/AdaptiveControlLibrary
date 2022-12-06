@@ -2,7 +2,7 @@
 
 Matlab implementation of the Adaptive Control Library, see also [section 16 here](https://www.politesi.polimi.it/bitstream/10589/131993/3/RussoAlessio_AdaptiveControlMultirotorUAVs.pdf).
 
-This is a collection of various operators commonly used in Model Reference Adaptive Control, from the thesis: `Alessio Russo, Adaptive control of multirotor UAVs, Polytechnic University of Milan, 2016`.
+This is a collection of various operators commonly used in Model Reference Adaptive Control. The library comes from the thesis: `Alessio Russo, Adaptive control of multirotor UAVs, Polytechnic University of Milan, 2016`.
 
 ## Usage
 
